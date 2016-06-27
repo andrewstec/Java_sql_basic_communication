@@ -1,0 +1,32 @@
+Bullwinkle Moose, A00123456 - Quizzes: 46.0, Assignment: 65.0, Exams: 78.0
+Daffy Duck, A00456789 - Quizzes: 59.0, Assignment: 65.0, Exams: 81.5
+Bart Simpson, A00987654 - Quizzes: 23.0, Assignment: 38.0, Exams: 60.5
+
+Bart Simpson, A00987654 - Quizzes: 23.0, Assignment: 38.0, Exams: 60.5
+Bullwinkle Moose, A00123456 - Quizzes: 46.0, Assignment: 65.0, Exams: 78.0
+Daffy Duck, A00456789 - Quizzes: 59.0, Assignment: 65.0, Exams: 81.5
+
+Daffy Duck, A00456789 - Quizzes: 59.0, Assignment: 65.0, Exams: 81.5
+Bullwinkle Moose, A00123456 - Quizzes: 46.0, Assignment: 65.0, Exams: 78.0
+Bart Simpson, A00987654 - Quizzes: 23.0, Assignment: 38.0, Exams: 60.5
+
+Bullwinkle Moose, A00123456 - Quizzes: 46.0, Assignment: 65.0, Exams: 78.0
+Daffy Duck, A00456789 - Quizzes: 59.0, Assignment: 65.0, Exams: 81.5
+Bart Simpson, A00987654 - Quizzes: 23.0, Assignment: 38.0, Exams: 60.5
+
+Bullwinkle Moose, A00123456 - Quizzes: 46.0, Assignment: 65.0, Exams: 78.0
+Daffy Duck, A00456789 - Quizzes: 59.0, Assignment: 65.0, Exams: 81.5
+Bart Simpson, A00987654 - Quizzes: 23.0, Assignment: 38.0, Exams: 60.5
+
+Bullwinkle Moose, A00123456 - Quizzes: 46.0, Assignment: 65.0, Exams: 78.0
+Daffy Duck, A00456789 - Quizzes: 59.0, Assignment: 65.0, Exams: 81.5
+Bart Simpson, A00987654 - Quizzes: 23.0, Assignment: 38.0, Exams: 60.5
+
+Bullwinkle Moose, A00123456 - Quizzes: 46.0, Assignment: 65.0, Exams: 78.0
+Daffy Duck, A00456789 - Quizzes: 59.0, Assignment: 65.0, Exams: 81.5
+Bart Simpson, A00987654 - Quizzes: 23.0, Assignment: 38.0, Exams: 60.5
+
+Bullwinkle Moose, A00123456 - Quizzes: 46.0, Assignment: 65.0, Exams: 78.0
+Daffy Duck, A00456789 - Quizzes: 59.0, Assignment: 65.0, Exams: 81.5
+Bart Simpson, A00987654 - Quizzes: 23.0, Assignment: 38.0, Exams: 60.5
+
